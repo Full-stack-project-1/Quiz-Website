@@ -1,3 +1,3 @@
 # Quiz-Website
 
-Link :- https://full-stack-project-1.github.io/Quiz-Website/end.html
+Link :- https://full-stack-project-1.github.io/Quiz-Website/
