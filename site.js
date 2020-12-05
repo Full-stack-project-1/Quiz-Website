@@ -76,6 +76,39 @@ let questions = [
             "Place block A on block B",
             "Place blocks B, A on the table in that order"
         ]
+    },
+    {
+        id: 8,
+        question: "What is a top-down parser?",
+        answer: "Begins by hypothesizing a sentence (the symbol S) and successively predicting lower level constituents until individual preterminal symbols are written",
+        options: [
+            "Begins by hypothesizing a sentence (the symbol S) and successively predicting lower level constituents until individual preterminal symbols are written",
+            "Begins by hypothesizing a sentence (the symbol S) and successively predicting upper level constituents until individual preterminal symbols are written",
+            "Begins by hypothesizing lower level constituents and successively predicting a sentence (the symbol S)",
+            "Begins by hypothesizing upper level constituents and successively predicting a sentence (the symbol S)"
+        ]
+    },
+    {
+        id: 9,
+        question: "Which is the most straightforward approach for planning algorithm?",
+        answer: "State-space search",
+        options: [
+            "State-space search",
+            "Best-first search",
+            "Depth-first search",
+            "Hill-climbing search"
+        ]
+    },
+    {
+        id: 10,
+        question: "What are taken into account of state-space search?",
+        answer: "Both Preconditions & Effects",
+        options: [
+            "Post conditions",
+            "Pre conditions",
+            "Effects",
+            "Both Preconditions & Effects"
+        ]
     }
 ];
 
