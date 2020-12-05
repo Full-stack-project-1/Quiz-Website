@@ -54,6 +54,17 @@ let questions = [
             "System constraints",
             "Structural units"
         ]
+    },
+    {
+        id: 6,
+        question: "Which of the factors affect the performance of learner system does not include?",
+        answer: "Good data structures",
+        options: [
+            "Representation scheme used",
+            "Training scenario",
+            "Type of feedback",
+            "Good data structures"
+        ]
     }
 ];
 
