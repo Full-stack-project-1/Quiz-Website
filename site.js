@@ -65,6 +65,17 @@ let questions = [
             "Type of feedback",
             "Good data structures"
         ]
+    },
+    {
+        id: 7,
+        question: "The action ‘STACK(A, B)’ of a robot arm specify to _______________",
+        answer: "Place block A on block B",
+        options: [
+            "Place block B on Block A",
+            "Place blocks A, B on the table in that order",
+            "Place block A on block B",
+            "Place blocks B, A on the table in that order"
+        ]
     }
 ];
 
